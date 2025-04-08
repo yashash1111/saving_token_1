@@ -3,6 +3,23 @@
     "start": "servor --reload"
   },
   "dependencies": {
+    "jsonwebtoken": "^9.0.2",
     "servor": "^4.0.2"
-  }
+  },
+  "name": "saving_token_1",
+  "version": "1.0.0",
+  "description": "- Understand the process of JWT token encryption and decryption for secure data transmission.",
+  "main": "script.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yashash1111/saving_token_1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/yashash1111/saving_token_1/issues"
+  },
+  "homepage": "https://github.com/yashash1111/saving_token_1#readme"
 }
